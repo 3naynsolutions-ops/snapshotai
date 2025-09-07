@@ -1,6 +1,5 @@
 {
   "name": "snapreport-backend",
   "private": true,
-  "type": "module",
-  "dependencies": {}
+  "type": "module"
 }
